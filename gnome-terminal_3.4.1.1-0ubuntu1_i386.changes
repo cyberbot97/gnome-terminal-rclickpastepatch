@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 17 Apr 2012 14:27:57 +1000
+Source: gnome-terminal
+Binary: gnome-terminal gnome-terminal-data
+Architecture: all i386
+Version: 3.4.1.1-0ubuntu1
+Distribution: precise
+Urgency: low
+Maintainer: Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>
+Changed-By: Robert Ancell <robert.ancell@canonical.com>
+Description: 
+ gnome-terminal - GNOME terminal emulator application
+ gnome-terminal-data - Data files for the GNOME terminal emulator
+Changes: 
+ gnome-terminal (3.4.1.1-0ubuntu1) precise; urgency=low
+ .
+   * New upstream release:
+     - Translation updates
+Checksums-Sha1: 
+ 19f2e3cdc21989237d7c5eb0132095e36ed2bae1 2608108 gnome-terminal-data_3.4.1.1-0ubuntu1_all.deb
+ c7947f4283424ab94843b38bf9bf378c5488fc08 508018 gnome-terminal_3.4.1.1-0ubuntu1_i386.deb
+Checksums-Sha256: 
+ 2cf66d97e38743f4a757b55ed4b2fcc17ec481efbda02a0317ef8946992450f1 2608108 gnome-terminal-data_3.4.1.1-0ubuntu1_all.deb
+ e7659b7a6d4d7a87701f0746424374cad4d23d9cc2dceca912cf62ac5df2b369 508018 gnome-terminal_3.4.1.1-0ubuntu1_i386.deb
+Files: 
+ 08b873f4d0b190633e9b02f412ca427b 2608108 gnome optional gnome-terminal-data_3.4.1.1-0ubuntu1_all.deb
+ daf6317aeffa74ae8b3f230b835f98d1 508018 gnome optional gnome-terminal_3.4.1.1-0ubuntu1_i386.deb
+Original-Maintainer: Guilherme de S. Pastore <gpastore@debian.org>
